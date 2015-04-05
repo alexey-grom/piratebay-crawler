@@ -1,0 +1,8 @@
+# encoding: utf-8
+
+DATABASE = ''
+USER = ''
+PASSWORD = ''
+
+START_ID = 10796249
+END_ID = 11796249
